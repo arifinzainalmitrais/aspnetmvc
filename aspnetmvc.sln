@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetmvc", "aspnetmvc\aspnetmvc.csproj", "{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB15775-064A-485B-A536-7F9ECCB5C99F}
+	EndGlobalSection
+EndGlobal
