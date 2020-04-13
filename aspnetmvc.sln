@@ -5,7 +5,10 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetmvc", "aspnetmvc\aspnetmvc.csproj", "{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C42EA310-154C-4B7A-B685-0463AB842DDB}"
+	ProjectSection(SolutionItems) = preProject
+		Jenkinsfile = Jenkinsfile
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +20,6 @@ Global
 		{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CFBC339-F78A-4A85-A491-78A0F8BEA54B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C19A11A1-CD59-49D6-B6D9-92ED7CC4B5EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
